@@ -1,0 +1,27 @@
+# Restricted/unpublished study inputs and derived record-level files
+data/
+outputs/
+private/
+raw/
+interim/
+processed/
+*.parquet
+*.pkl
+*.joblib
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.geojson
+.env
+.env.*
+*.key
+*.pem
+*token*
+*secret*
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
